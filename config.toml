@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://ferdcebucitydistributor.netlify.app/"
+baseurl = "https://ferndcebucitydistributor.netlify.app/"
 title = "Fern D Cebu City Distributor | FREE DELIVERY"
 theme = "vex-hugo-master"
 # post excert
