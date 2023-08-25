@@ -1,8 +1,8 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Believe in Technology, Make the change"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
+  title: "Fern D Free delivery within Metro Cebu"
+  content: "i-fern product distributor providing free delivery within the Metro Cebu area. Aside from Fern D, we also supply MilkCa, Fern Active and other i-Fern products on a pre-order basis. Click the chat button to order now!"
   image: "images/fern-d-120s.png"
   button:
     enable: true
@@ -18,36 +18,36 @@ features:
   # feature at the left of the image
   left_side:
     # feature item loop
-    - title: "Smooth Touch"
+    - title: "Bone Health"
       icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: "Vitamin D3 plays a crucial role in calcium absorption, promoting healthy bone development and reducing the risk of osteoporosis and fractures."
 
       # feature item loop
-    - title: "Elegant Design"
+    - title: "Immune System Support"
       icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: "Vitamin D3 is known to modulate the immune system, helping to regulate immune responses and potentially reducing the risk of infections and autoimmune disorders."
 
       # feature item loop
-    - title: "Easy Pricing"
+    - title: "Mood Regulation"
       icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: "Some studies suggest that Vitamin D3 may contribute to maintaining good mental health by influencing serotonin levels, which can impact mood and help alleviate symptoms of depression and anxiety."
 
   # feature at the right of the image
   right_side:
     # feature item loop
-    - title: "Smooth Touch"
+    - title: "Cardiovascular Health"
       icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: "Adequate Vitamin D3 levels may support heart health by aiding in the regulation of blood pressure, reducing inflammation, and improving overall vascular function."
 
       # feature item loop
-    - title: "Elegant Design"
+    - title: "Cancer Prevention"
       icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: "While more research is needed, some studies propose that sufficient Vitamin D3 levels could be associated with a lower risk of certain types of cancer, including breast, prostate, and colon cancer."
 
       # feature item loop
-    - title: "Easy Pricing"
+    - title: "Diabetes Management"
       icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: "Vitamin D3 might play a role in improving insulin sensitivity and glucose regulation, potentially aiding in the management of type 2 diabetes or reducing the risk of its development."
 
 ############################# promo ############################
 promo:
